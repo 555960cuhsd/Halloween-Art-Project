@@ -1,0 +1,6 @@
+Group mates: Justin Lee and Allen Ukigai
+
+Description:
+Our art project is a clicker game. The goal is to rack up as many eggs (points) as possible with no time limit. To get eggs, you click the chicken that
+randomly goes around the screen after every click. Every click grants you one egg, but if you click the "upgrade button" you get one more egg per click.
+Clicking the "upgrade button" will deduct the amount of eggs you have, and the cost will increase exponentially as you keep using it.
